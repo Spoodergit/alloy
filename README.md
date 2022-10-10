@@ -9,7 +9,7 @@ A web proxy for use in combating web filters.
 ## Running locally
 
 ```sh
-git clone https://github.com/titaniumnetwork-dev/alloyproxy.git
+git clone https://github.com/titaniumnetwork-dev/alloyproxy.git https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/alloy/tree/master
 cd alloyproxy
 node server.js
 ```
